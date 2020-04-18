@@ -152,7 +152,7 @@ module.exports =
 			listenIps :
 			[
 				// change ip to your servers IP address!
-				{ ip: '10.128.0.14', announcedIp: null }
+				{ ip: '10.128.0.14', announcedIp: '23.236.49.182' }
 
 				// Can have multiple listening interfaces
 				// { ip: '::/0', announcedIp: null }
