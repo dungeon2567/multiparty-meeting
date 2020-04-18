@@ -4,7 +4,7 @@ var config =
 	loginEnabled     : false,
 	developmentPort  : 3443,
 	productionPort   : 443,
-	multipartyServer : 'letsmeet.no',
+	multipartyServer : 'commercifly.ml',
 	turnServers      : [
 		{
 			urls : [
